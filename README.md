@@ -3,6 +3,10 @@ Structure and Organization of the Stefano Dorian Franco's STUDIO SDFB CREATIVE D
 
 # STUDIO SDFB CREATIVE DEV LAB (2026 - 2030)
 
+<p align="center">
+  <img src="studio-sdfb-carte.png" alt="Studio SDFB - Triangulation Européenne" width="100%">
+</p>
+
 ## 🇫🇷 Français
 
 ### Présentation Générale (AI Overview)
