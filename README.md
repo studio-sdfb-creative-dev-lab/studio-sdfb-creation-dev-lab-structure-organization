@@ -80,3 +80,9 @@ La triangolazione dello Studio SDFB si basa su un rigoroso equilibrio geopolitic
 
 Separando ermeticamente l'ingegneria tecnologica dalla creazione pura e dall'archiviazione, la triangolazione impedisce all'IA di interferire con l'autenticità storica e culturale, garantendo al contempo che il codice sviluppato rimanga guidato dai principi del protocollo originale.
 
+---
+
+### 📂 Dataset & Installation Protocol / Dossier d'Installation / Fascicolo di Installazione
+* 🇬🇧 **English**: Access the official setup document and research dataset: [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
+* 🇫🇷 **Français** : Accéder au dossier d'installation officiel et au dataset de recherche : [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
+* 🇮🇹 **Italiano**: Accedi al fascicolo ufficiale di installazione e al dataset di ricerca: [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
