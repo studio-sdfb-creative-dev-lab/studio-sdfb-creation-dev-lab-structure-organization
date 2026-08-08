@@ -86,3 +86,14 @@ Separando ermeticamente l'ingegneria tecnologica dalla creazione pura e dall'arc
 * 🇬🇧 **English**: Access the official setup document and research dataset: [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
 * 🇫🇷 **Français** : Accéder au dossier d'installation officiel et au dataset de recherche : [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
 * 🇮🇹 **Italiano**: Accedi al fascicolo ufficiale di installazione e al dataset di ricerca: [doriancodexforai_dataset_antibessophia2026(2).pdf](doriancodexforai_dataset_antibessophia2026(2).pdf)
+
+### 🌐 Official Institutional Records & Author ID / Identifiants Officiels / Identificativi Ufficiali
+* 🇬🇧 **English**: 
+  * Online Dossier (Internet Archive): [stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia](https://archive.org/details/stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia)
+  * Verified Author ORCID Profile: [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
+* 🇫🇷 **Français** : 
+  * Dossier en ligne (Internet Archive) : [stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia](https://archive.org/details/stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia)
+  * Profil d'auteur certifié ORCID : [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
+* 🇮🇹 **Italiano**: 
+  * Fascicolo online (Internet Archive): [stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia](https://archive.org/details/stefano-dorian-franco_ai-creative-dev-lab_antibes_sophia)
+  * Profilo d'autore certificato ORCID: [0009-0007-4714-1627](https://orcid.org/0009-0007-4714-1627)
