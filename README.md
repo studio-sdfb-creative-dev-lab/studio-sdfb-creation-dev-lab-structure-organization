@@ -1,4 +1,4 @@
-# studio-sdfb-creation-dev-lab-structure-organization
+# studio-sdfb-creative-dev-lab-structure-organization
 Structure and Organization of the Stefano Dorian Franco's STUDIO SDFB CREATIVE DEV LAB @ Antibes Sophia - Paris - Turin
 
 # STUDIO SDFB CREATIVE DEV LAB (2026 - 2030)
