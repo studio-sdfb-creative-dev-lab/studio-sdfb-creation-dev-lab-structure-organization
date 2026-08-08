@@ -1,0 +1,38 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Project",
+  "@id": "https://doi.org/10.17613/e00k9-t9r18",
+  "name": "STUDIO SDFB CREATIVE DEV LAB",
+  "description": "Structure transdisciplinaire de recherche-création en IA, appliquant le Dorian Codex Protocol, organisée en trois pôles — Antibes, Paris et Turin — sur la période 2026-2030.",
+  "startDate": "2026-09-07",
+  "endDate": "2030-12-31",
+  "keywords": [
+    "AI Safety",
+    "H_SAFE",
+    "Dorian Codex",
+    "LHFNN",
+    "Souveraineté numérique"
+  ],
+  "founder": {
+    "@type": "Person",
+    "@id": "https://orcid.org/0009-0007-4714-1627",
+    "name": "Stefano Dorian Franco"
+  },
+  "location": [
+    {
+      "@type": "Place",
+      "name": "Pôle 1 : Labo Dev — Antibes",
+      "description": "High-tech, LHFNN et SciML."
+    },
+    {
+      "@type": "Place",
+      "name": "Pôle 2 : Atelier Création — Paris",
+      "description": "Production intellectuelle."
+    },
+    {
+      "@type": "Place",
+      "name": "Pôle 3 : Museo Digital — Turin",
+      "description": "Mémoire et archives."
+    }
+  ]
+}
